@@ -19,12 +19,14 @@ roadapikey.txt
 kakaoapikey.txt
 password.txt
 test.ipynb
+test.py
 jh.ipynb
 img/
 image/
 images/
 upload/
 key/
+model/
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
 
